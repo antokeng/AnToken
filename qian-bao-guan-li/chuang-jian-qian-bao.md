@@ -1,6 +1,34 @@
 # 创建钱包
 
-Hit the big '+' button in your sidebar and select \
-\
-\
-'New Project' from the menu that pops up. Give your project a name, and you're good to go!
+1、打开AnToken钱包后，点击【**创建新钱包**】；
+
+![](../.gitbook/assets/微信图片编辑\_20220527155214.jpg)
+
+2、选择想要创建的钱包主链；（此处以以太坊钱包为例）\
+
+
+![](../.gitbook/assets/微信图片编辑\_20220527155300.jpg)
+
+##
+
+##
+
+3、进入备份助记词页面后，请勿截图助记词，备份后点击【**备份完成，进行验证**】；
+
+####
+
+#### &#x20;
+
+![](../.gitbook/assets/微信图片编辑\_20220527155517.jpg)
+
+4、按照上一步的助记词顺序填入，然后点击【**确认**】；
+
+![](../.gitbook/assets/微信图片编辑\_20220527155541.jpg)
+
+5、输入【钱包密码】
+
+![](../.gitbook/assets/微信图片编辑\_20220527155621.jpg)
+
+6、至此，您的新钱包已经创建成功。
+
+![](../.gitbook/assets/微信图片\_20220527155629.jpg)
