@@ -19,12 +19,9 @@
 
 ## DEX教程
 
-* [什么是DeFi？](dex-jiao-cheng/shi-mo-shi-defi/README.md)
-  * [Figma Integration](dex-jiao-cheng/shi-mo-shi-defi/figma-integration.md)
-* [什么是去中心化交易所（DEX）](dex-jiao-cheng/shi-mo-shi-qu-zhong-xin-hua-jiao-yi-suo-dex/README.md)
-  * [GitHub Integration](dex-jiao-cheng/shi-mo-shi-qu-zhong-xin-hua-jiao-yi-suo-dex/github-integration.md)
-* [Transit使用教程](dex-jiao-cheng/transit-shi-yong-jiao-cheng/README.md)
-  * [Intercom Integration](dex-jiao-cheng/transit-shi-yong-jiao-cheng/intercom-integration.md)
+* [什么是DeFi？](dex-jiao-cheng/shi-mo-shi-defi.md)
+* [什么是去中心化交易所（DEX）](dex-jiao-cheng/shi-mo-shi-qu-zhong-xin-hua-jiao-yi-suo-dex.md)
+* [Transit使用教程](dex-jiao-cheng/transit-shi-yong-jiao-cheng.md)
 
 ***
 
