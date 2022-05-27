@@ -19,20 +19,17 @@
 
 ## DEX教程
 
-* [什么是DeFi？](dex-jiao-cheng/shi-mo-shi-defi.md)
-* [什么是去中心化交易所（DEX）](dex-jiao-cheng/shi-mo-shi-qu-zhong-xin-hua-jiao-yi-suo-dex.md)
-* [Transit使用教程](dex-jiao-cheng/transit-shi-yong-jiao-cheng.md)
-
-***
-
-* [Transit使用教程](transit-shi-yong-jiao-cheng.md)
-* [Polygon (Matic) 使用教程](polygon-matic-shi-yong-jiao-cheng.md)
-* [Uniswap使用教程](uniswap-shi-yong-jiao-cheng.md)
-* [PancakeSwap使用教程](pancakeswap-shi-yong-jiao-cheng.md)
-* [MDEX使用教程](mdex-shi-yong-jiao-cheng.md)
-* [JustSwap使用教程](justswap-shi-yong-jiao-cheng.md)
-* [Pudding使用教程](pudding-shi-yong-jiao-cheng.md)
-* [SushiSwap使用教程](sushiswap-shi-yong-jiao-cheng.md)
+* [什么是DeFi？](dex-jiao-cheng/shi-mo-shi-defi/README.md)
+* [什么是去中心化交易所（DEX）](dex-jiao-cheng/shi-mo-shi-qu-zhong-xin-hua-jiao-yi-suo-dex/README.md)
+* [怎么在DEX交易](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/README.md)
+  * [Transit使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/transit-shi-yong-jiao-cheng.md)
+  * [Polygon (Matic) 使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/polygon-matic-shi-yong-jiao-cheng.md)
+  * [Uniswap使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/uniswap-shi-yong-jiao-cheng.md)
+  * [PancakeSwap使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/pancakeswap-shi-yong-jiao-cheng.md)
+  * [MDEX使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/mdex-shi-yong-jiao-cheng.md)
+  * [JustSwap使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/justswap-shi-yong-jiao-cheng.md)
+  * [Pudding使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/pudding-shi-yong-jiao-cheng.md)
+  * [SushiSwap使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/sushiswap-shi-yong-jiao-cheng.md)
 
 ## 常见问题
 
