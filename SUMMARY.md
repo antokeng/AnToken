@@ -21,7 +21,7 @@
 
 * [什么是DeFi？](dex-jiao-cheng/shi-mo-shi-defi/README.md)
 * [什么是去中心化交易所（DEX）](dex-jiao-cheng/shi-mo-shi-qu-zhong-xin-hua-jiao-yi-suo-dex/README.md)
-* [怎么在DEX交易](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/README.md)
+* [怎么在DEX交易](dex-jiao-cheng/transit-shi-yong-jiao-cheng/README.md)
   * [Transit使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/transit-shi-yong-jiao-cheng.md)
   * [Polygon (Matic) 使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/polygon-matic-shi-yong-jiao-cheng.md)
   * [Uniswap使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/uniswap-shi-yong-jiao-cheng.md)
@@ -30,6 +30,7 @@
   * [JustSwap使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/justswap-shi-yong-jiao-cheng.md)
   * [Pudding使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/pudding-shi-yong-jiao-cheng.md)
   * [SushiSwap使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/sushiswap-shi-yong-jiao-cheng.md)
+  * [向我们提交DApp](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/xiang-wo-men-ti-jiao-dapp.md)
 
 ## 常见问题
 
