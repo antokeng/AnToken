@@ -1,5 +1,17 @@
 # 接收代币
 
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them.
-{% endhint %}
+1、打开AnToken，在【资产】页面选择需要接收的代币；
+
+![](../.gitbook/assets/微信图片编辑\_20220530183748.jpg)
+
+2、点击【收款】；
+
+![](../.gitbook/assets/微信图片编辑\_20220530183814.jpg)
+
+3、在中心化交易所/去中心化钱包的提现页面上，可通过扫描二维码或复制收款地址到提现地址即可。
+
+**注意：**\
+1）在进行任何转账时，请确认选择的转账通道是否一致！\
+2）转账到AnToken后未显示代币，请先查看是否添加该代币。
+
+![](<../.gitbook/assets/微信图片编辑\_20220530183947 (2).jpg>)
