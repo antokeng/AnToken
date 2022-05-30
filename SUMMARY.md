@@ -19,8 +19,8 @@
 
 ## 转账教程
 
-* [怎么转账](zhuan-zhang-jiao-cheng/zen-mo-zhuan-zhang.md)
-* [转账到钱包](zhuan-zhang-jiao-cheng/zhuan-zhang-dao-qian-bao.md)
+* [怎么转账](dex-jiao-cheng/shi-mo-shi-defi/README.md)
+* [转账到钱包](dex-jiao-cheng/shi-mo-shi-qu-zhong-xin-hua-jiao-yi-suo-dex/README.md)
 * [转账到交易所](zhuan-zhang-jiao-cheng/zhuan-zhang-dao-jiao-yi-suo.md)
 
 ## Copy of DEX教程
