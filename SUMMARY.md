@@ -15,21 +15,28 @@
 * [添加代币](dai-bi-guan-li/tian-jia-dai-bi.md)
 * [删除代币](dai-bi-guan-li/shan-chu-dai-bi.md)
 * [接收代币](dai-bi-guan-li/jie-shou-dai-bi.md)
+* [向我们提交代币](dai-bi-guan-li/xiang-wo-men-ti-jiao-dai-bi.md)
 
-## DEX教程
+## 转账教程
 
-* [什么是DeFi？](dex-jiao-cheng/shi-mo-shi-defi/README.md)
-* [什么是去中心化交易所（DEX）](dex-jiao-cheng/shi-mo-shi-qu-zhong-xin-hua-jiao-yi-suo-dex/README.md)
-* [怎么在DEX交易](dex-jiao-cheng/transit-shi-yong-jiao-cheng/README.md)
-  * [Transit使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/transit-shi-yong-jiao-cheng.md)
-  * [Polygon (Matic) 使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/polygon-matic-shi-yong-jiao-cheng.md)
-  * [Uniswap使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/uniswap-shi-yong-jiao-cheng.md)
-  * [PancakeSwap使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/pancakeswap-shi-yong-jiao-cheng.md)
-  * [MDEX使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/mdex-shi-yong-jiao-cheng.md)
-  * [JustSwap使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/justswap-shi-yong-jiao-cheng.md)
-  * [Pudding使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/pudding-shi-yong-jiao-cheng.md)
-  * [SushiSwap使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/sushiswap-shi-yong-jiao-cheng.md)
-  * [向我们提交DApp](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/xiang-wo-men-ti-jiao-dapp.md)
+* [怎么转账](zhuan-zhang-jiao-cheng/zen-mo-zhuan-zhang.md)
+* [转账到钱包](zhuan-zhang-jiao-cheng/zhuan-zhang-dao-qian-bao.md)
+* [转账到交易所](zhuan-zhang-jiao-cheng/zhuan-zhang-dao-jiao-yi-suo.md)
+
+## Copy of DEX教程
+
+* [什么是DeFi？](copy-of-dex-jiao-cheng/shi-mo-shi-defi.md)
+* [什么是去中心化交易所（DEX）](copy-of-dex-jiao-cheng/shi-mo-shi-qu-zhong-xin-hua-jiao-yi-suo-dex.md)
+* [怎么在DEX交易](copy-of-dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/README.md)
+  * [Transit使用教程](copy-of-dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/transit-shi-yong-jiao-cheng.md)
+  * [Polygon (Matic) 使用教程](copy-of-dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/polygon-matic-shi-yong-jiao-cheng.md)
+  * [Uniswap使用教程](copy-of-dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/uniswap-shi-yong-jiao-cheng.md)
+  * [PancakeSwap使用教程](copy-of-dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/pancakeswap-shi-yong-jiao-cheng.md)
+  * [MDEX使用教程](copy-of-dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/mdex-shi-yong-jiao-cheng.md)
+  * [JustSwap使用教程](copy-of-dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/justswap-shi-yong-jiao-cheng.md)
+  * [Pudding使用教程](copy-of-dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/pudding-shi-yong-jiao-cheng.md)
+  * [SushiSwap使用教程](copy-of-dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/sushiswap-shi-yong-jiao-cheng.md)
+  * [向我们提交DApp](copy-of-dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/xiang-wo-men-ti-jiao-dapp.md)
 
 ## 常见问题
 
