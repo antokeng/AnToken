@@ -1,5 +1,15 @@
 # 管理钱包
 
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+1、打开AnToken后，点击右下角【我的】- 选择【钱包管理】；
+
+![](../.gitbook/assets/微信图片编辑\_20220530170337.jpg)
+
+2、点击钱包右侧三个点进行钱包管理；
+
+![](../.gitbook/assets/微信图片编辑\_20220530170354.jpg)
+
+3、弹出钱包管理选择，可对当前的钱包进行如下操作：
+
+1）导出当前钱包的助记词/私钥/keystore；请妥善保管这些安全信息，切勿泄漏给任何人；\
+2）修改密码可以通过当前的密码进行修改；\
+3）如进行删除钱包操作，请务必先确保已备份助记词/私钥，否则将无法找回钱包资产！
