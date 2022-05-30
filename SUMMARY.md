@@ -8,7 +8,6 @@
 * [导入钱包](qian-bao-guan-li/dao-ru-qian-bao.md)
 * [管理钱包](qian-bao-guan-li/guan-li-qian-bao.md)
 * [切换钱包](qian-bao-guan-li/qie-huan-qian-bao.md)
-* [同步钱包](qian-bao-guan-li/tong-bu-qian-bao.md)
 
 ## 代币管理
 
