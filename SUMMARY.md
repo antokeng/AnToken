@@ -26,21 +26,6 @@
   * [抹茶交易所提币到AnToken](zhuan-zhang-jiao-cheng/zhuan-zhang-dao-qian-bao/mo-cha-jiao-yi-suo-ti-bi-dao-antoken.md)
   * [火币交易所提币到AnToken](zhuan-zhang-jiao-cheng/zhuan-zhang-dao-qian-bao/huo-bi-jiao-yi-suo-ti-bi-dao-antoken.md)
 
-## DEX教程
-
-* [什么是DeFi？](dex-jiao-cheng/shi-mo-shi-defi.md)
-* [什么是去中心化交易所（DEX）](dex-jiao-cheng/shi-mo-shi-qu-zhong-xin-hua-jiao-yi-suo-dex.md)
-* [怎么在DEX交易](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/README.md)
-  * [Transit使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/transit-shi-yong-jiao-cheng.md)
-  * [Polygon (Matic) 使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/polygon-matic-shi-yong-jiao-cheng.md)
-  * [Uniswap使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/uniswap-shi-yong-jiao-cheng.md)
-  * [PancakeSwap使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/pancakeswap-shi-yong-jiao-cheng.md)
-  * [MDEX使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/mdex-shi-yong-jiao-cheng.md)
-  * [JustSwap使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/justswap-shi-yong-jiao-cheng.md)
-  * [Pudding使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/pudding-shi-yong-jiao-cheng.md)
-  * [SushiSwap使用教程](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/sushiswap-shi-yong-jiao-cheng.md)
-  * [向我们提交DApp](dex-jiao-cheng/zen-mo-zai-dex-jiao-yi/xiang-wo-men-ti-jiao-dapp.md)
-
 ## 常见问题
 
 * [不同公链间不能直接转账](chang-jian-wen-ti/bu-tong-gong-lian-jian-bu-neng-zhi-jie-zhuan-zhang.md)
