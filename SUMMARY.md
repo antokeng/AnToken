@@ -25,7 +25,6 @@
   * [欧易交易所提币到AnToken](zhuan-zhang-jiao-cheng/zhuan-zhang-dao-qian-bao/ou-yi-jiao-yi-suo-ti-bi-dao-antoken.md)
   * [抹茶交易所提币到AnToken](zhuan-zhang-jiao-cheng/zhuan-zhang-dao-qian-bao/mo-cha-jiao-yi-suo-ti-bi-dao-antoken.md)
   * [火币交易所提币到AnToken](zhuan-zhang-jiao-cheng/zhuan-zhang-dao-qian-bao/huo-bi-jiao-yi-suo-ti-bi-dao-antoken.md)
-* [转账到交易所](zhuan-zhang-jiao-cheng/zhuan-zhang-dao-jiao-yi-suo.md)
 
 ## Copy of DEX教程
 

@@ -10,11 +10,11 @@
 
 1、打开币安点击右上角钱包，下拉选择现货帐户。
 
-![](../../.gitbook/assets/1.jpg)
+![](<../../.gitbook/assets/1 (1).jpg>)
 
 2、在搜索栏中填入需要提币的代币名称，例如USDT
 
-![](../../.gitbook/assets/2.jpg)
+![](<../../.gitbook/assets/2 (1).jpg>)
 
 搜索到USDT代币后，在操作中选择提现功能
 
