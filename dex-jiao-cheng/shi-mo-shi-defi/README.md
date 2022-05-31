@@ -1,5 +1,26 @@
 # 怎么转账
 
-{% hint style="info" %}
-**Good to know:** depending on the product you're building, it can be useful to explicitly document use cases. Got a product that can be used by a bunch of people in different ways? Maybe consider splitting it out!
-{% endhint %}
+1、打开AnToken，在【资产】页面选择需要接收的代币；
+
+![](../../.gitbook/assets/微信图片编辑\_20220531092842.jpg)
+
+2、在底部点击【转账】；
+
+![](../../.gitbook/assets/微信图片编辑\_20220531092921.jpg)
+
+3、依次填入【收款账号】和【转账数量】，选择矿工费，然后点击【确认】；
+
+![](../../.gitbook/assets/微信图片编辑\_20220531092952.jpg)
+
+4、确认转账信息无误后，点击【确认支付】；
+
+![](../../.gitbook/assets/微信图片\_20220531104927.jpg)
+
+5、输入钱包密码，然后点击【确认】完成转账。
+
+![](../../.gitbook/assets/微信图片\_20220531104931.jpg)
+
+**注意：**\
+1）转账前，请检查接收地址平台是否接收该代币；\
+2）转账前，请确保钱包有足够的矿工费，否则将导致转账失败。例如，选择币安智能链转账时，需确保钱包有足够的BNB作为矿工费；\
+3）转账时，请确保需要转账的代币与接收地址在同一条公链上。例如，接收地址为BNB-BSC地址，则应选择币安智能链钱包进行转账。

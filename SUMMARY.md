@@ -20,7 +20,11 @@
 ## 转账教程
 
 * [怎么转账](dex-jiao-cheng/shi-mo-shi-defi/README.md)
-* [转账到钱包](dex-jiao-cheng/shi-mo-shi-qu-zhong-xin-hua-jiao-yi-suo-dex/README.md)
+* [转账到钱包](zhuan-zhang-jiao-cheng/zhuan-zhang-dao-qian-bao/README.md)
+  * [币安交易所提币到AnToken](zhuan-zhang-jiao-cheng/zhuan-zhang-dao-qian-bao/bi-an-jiao-yi-suo-ti-bi-dao-antoken.md)
+  * [欧易交易所提币到AnToken](zhuan-zhang-jiao-cheng/zhuan-zhang-dao-qian-bao/ou-yi-jiao-yi-suo-ti-bi-dao-antoken.md)
+  * [抹茶交易所提币到AnToken](zhuan-zhang-jiao-cheng/zhuan-zhang-dao-qian-bao/mo-cha-jiao-yi-suo-ti-bi-dao-antoken.md)
+  * [火币交易所提币到AnToken](zhuan-zhang-jiao-cheng/zhuan-zhang-dao-qian-bao/huo-bi-jiao-yi-suo-ti-bi-dao-antoken.md)
 * [转账到交易所](zhuan-zhang-jiao-cheng/zhuan-zhang-dao-jiao-yi-suo.md)
 
 ## Copy of DEX教程
