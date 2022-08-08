@@ -8,5 +8,5 @@ AnToken Wallet是一款去中心化的多链数字钱包，致力于为全球用
 
 **联系我们**\
 产品反馈：antokengroup@gmail.com \
-商务合作：antoken@antoken.cc \
+商务合作：antoken@antoken.pro \
 客户服务：antokengroup@gmail.com
